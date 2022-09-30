@@ -1,8 +1,9 @@
-## Getting Started
+## Group names
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+1-Abdulaziz Alghamdi 1741404
+2-Amar 
 
-## Folder Structure
+## Intruduction
 
 The workspace contains two folders by default, where:
 
