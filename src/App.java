@@ -1,7 +1,7 @@
 public class App {
     public static void main(String[] args) throws Exception {
         
-        int x = 100 ;
+        int x = 200 ;
         int y = 25;
         int z = x*y;
 
